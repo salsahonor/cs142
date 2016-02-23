@@ -1,0 +1,6 @@
+Residential 0 4578324 1 658 A St
+Commerical 1 435802 1 .5 783 1st St
+Residential 1 778231 0 9823 C St
+Commercial 0 839237 1 .28 888 3rd St
+Residential 0 890723 5 92384 Z St
+Commercial 0 398291 0 .4 557 5th St

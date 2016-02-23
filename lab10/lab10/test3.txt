@@ -1,0 +1,6 @@
+Residential 0 300000 1 435 Magowan Ave
+BAD INPUT 5 8908 
+Commercial 1 1000000 1 .3 891 Friendship Ln
+Commercial 5 670897 0 .5 275 Cougar Rd
+Residential 1 150000 0 673 Cherry Rd
+Residential 1 123456 3 45 Berry Circ

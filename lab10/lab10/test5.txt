@@ -1,0 +1,5 @@
+Commercial 1 1000000 1 .25 9823 Sunshine Ln
+Residential 0 5 0 783 Rainy Rd
+Residential 0 873425 1 985 Hail St
+Commercial 1 8783249 0 .3 782 Tornado Alley
+Residetial 1 5782 1 895 Hurricane Circle
